@@ -1,6 +1,5 @@
 # MacOS
 .DS_Store
-.gitkeep
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
